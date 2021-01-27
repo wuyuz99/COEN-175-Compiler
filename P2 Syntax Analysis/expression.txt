@@ -1,0 +1,26 @@
+expression
+→expression||expression
+|expression&&expression
+|expression==expression
+|expression!=expression
+|expression<=expression
+|expression>=expression
+|expression<expression
+|expression>expression
+|expression+expression
+|expression-expression
+|expression*expression
+|expression/expression
+|expression%expression
+|!expression
+|-expression
+|&expression
+|*expression
+|sizeof expression
+|expression [ expression ]
+|id ( expression-list )
+|id ( )
+|id
+|num
+|string
+|( expression ) 
